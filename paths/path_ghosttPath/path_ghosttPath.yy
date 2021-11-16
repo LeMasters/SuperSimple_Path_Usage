@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "closed": true,
+  "precision": 4,
+  "points": [
+    {"speed":100.0,"x":160.0,"y":128.0,},
+    {"speed":100.0,"x":160.0,"y":448.0,},
+    {"speed":100.0,"x":352.0,"y":448.0,},
+    {"speed":100.0,"x":480.0,"y":384.0,},
+    {"speed":100.0,"x":512.0,"y":512.0,},
+    {"speed":100.0,"x":320.0,"y":512.0,},
+    {"speed":100.0,"x":384.0,"y":384.0,},
+    {"speed":100.0,"x":544.0,"y":352.0,},
+    {"speed":100.0,"x":448.0,"y":224.0,},
+    {"speed":100.0,"x":416.0,"y":128.0,},
+    {"speed":100.0,"x":448.0,"y":32.0,},
+    {"speed":100.0,"x":256.0,"y":32.0,},
+  ],
+  "parent": {
+    "name": "SuperSimple_Path_Usage",
+    "path": "SuperSimple_Path_Usage.yyp",
+  },
+  "resourceVersion": "1.0",
+  "name": "path_ghosttPath",
+  "tags": [],
+  "resourceType": "GMPath",
+}
